@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.SplashActivity">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#2196F3"
+        tools:context=".ui.LoginPage">
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/inter_bold"
+            android:text="REGISTER"
+            android:textColor="#AAE0FF"
+            android:textSize="24sp"
+            tools:layout_editor_absoluteX="232dp"
+            tools:layout_editor_absoluteY="158dp" />
+
+        <ImageView
+            android:id="@+id/imageView4"
+            android:layout_width="410dp"
+            android:layout_height="405dp"
+            app:srcCompat="@drawable/avatar_stamps"
+            tools:layout_editor_absoluteX="2dp"
+            tools:layout_editor_absoluteY="200dp" />
+
+        <TextView
+            android:id="@+id/textView7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/roboto_bold"
+            android:text="Register now"
+            android:textColor="#2196F3"
+            tools:layout_editor_absoluteX="232dp"
+            tools:layout_editor_absoluteY="536dp" />
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/roboto_bold"
+            android:text="Don't have an account?"
+            android:textColor="#4C4C4C"
+            tools:layout_editor_absoluteX="83dp"
+            tools:layout_editor_absoluteY="536dp" />
+
+        <ImageView
+            android:id="@+id/imageView9"
+            android:layout_width="364dp"
+            android:layout_height="60dp"
+            app:srcCompat="@drawable/avatar_stamps2"
+            tools:layout_editor_absoluteX="25dp"
+            tools:layout_editor_absoluteY="353dp" />
+
+        <ImageView
+            android:id="@+id/imageView5"
+            android:layout_width="364dp"
+            android:layout_height="60dp"
+            app:srcCompat="@drawable/avatar_stamps2"
+            tools:layout_editor_absoluteX="25dp"
+            tools:layout_editor_absoluteY="273dp" />
+
+        <ImageView
+            android:id="@+id/imageView8"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/garis"
+            tools:layout_editor_absoluteX="41dp"
+            tools:layout_editor_absoluteY="151dp" />
+
+        <Button
+            android:id="@+id/button"
+            style="@style/Widget.Material3.Button"
+            android:layout_width="108dp"
+            android:layout_height="59dp"
+            android:backgroundTint="#2196F3"
+            android:text="LOGIN"
+            android:textSize="20sp"
+            tools:layout_editor_absoluteX="151dp"
+            tools:layout_editor_absoluteY="460dp" />
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/inter_bold"
+            android:text="LOGIN"
+            android:textColor="#FFFCFC"
+            android:textSize="24sp"
+            tools:layout_editor_absoluteX="83dp"
+            tools:layout_editor_absoluteY="158dp" />
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/roboto_bold"
+            android:text="Forgot password?"
+            android:textColor="#2196F3"
+            tools:layout_editor_absoluteX="58dp"
+            tools:layout_editor_absoluteY="420dp" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

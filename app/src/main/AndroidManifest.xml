@@ -13,6 +13,9 @@
         android:theme="@style/Theme.Appsmobile"
         tools:targetApi="31">
         <activity
+            android:name=".MainActivity"
+            android:exported="false" />
+        <activity
             android:name=".ui.RegisterPage"
             android:exported="false" />
         <activity
@@ -22,7 +25,7 @@
             android:name=".ui.LinearLayout"
             android:exported="false" />
         <activity
-            android:name=".MainActivity"
+            android:name=".ui.SplashActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
