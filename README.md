@@ -9,7 +9,11 @@ Dapatkan wawasan mendalam tentang destinasi wisata dengan panduan terperinci, te
 Tidak hanya itu, "TRIPERZ" juga akan memberikan pembaruan waktu nyata tentang acara-acara menarik, cuaca, dan informasi penting lainnya, sehingga Anda selalu siap menjalani setiap petualangan.
 
 Mari bersama-sama kita buka lembaran baru dalam perjalanan wisata dengan "TRIPERZ" - Aplikasi yang menghadirkan keistimewaan Jogja tepat di ujung jari Anda! 
+
 Apikasi ini memberikan gambaran dan infrmasi mengenai destinasi wisata yang ada dijogja guna memberikan pengetahuan pada masyarakat sebelum melakukan perjalanan dijogja. Dengan memanfatkan aplikasi ini akan lebih mudah mengetahui segala informasi mengenai kurangnya informasi tentang jogja.
+
+
 Kelompok ini beranggotakan :
-- Erwin Bima Syahputra
-- Raihan Dzikri Nirvana
+- Erwin Bima Syahputra  (21537144044)
+
+- Raihan Dzikri Nirvana (21537144050)
